@@ -1,0 +1,13 @@
+D:\AP\interpreterlib\bin\Debug\net8.0\interpreterlib.deps.json
+D:\AP\interpreterlib\bin\Debug\net8.0\interpreterlib.dll
+D:\AP\interpreterlib\bin\Debug\net8.0\interpreterlib.pdb
+D:\AP\interpreterlib\bin\Debug\net8.0\interpreterlib.xml
+D:\AP\interpreterlib\obj\Debug\net8.0\interpreterlib.fsproj.AssemblyReference.cache
+D:\AP\interpreterlib\obj\Debug\net8.0\interpreterlib.AssemblyInfoInputs.cache
+D:\AP\interpreterlib\obj\Debug\net8.0\interpreterlib.AssemblyInfo.fs
+D:\AP\interpreterlib\obj\Debug\net8.0\interpreterlib.fsproj.CoreCompileInputs.cache
+D:\AP\interpreterlib\obj\Debug\net8.0\interpreterlib.dll
+D:\AP\interpreterlib\obj\Debug\net8.0\refint\interpreterlib.dll
+D:\AP\interpreterlib\obj\Debug\net8.0\interpreterlib.xml
+D:\AP\interpreterlib\obj\Debug\net8.0\interpreterlib.pdb
+D:\AP\interpreterlib\obj\Debug\net8.0\ref\interpreterlib.dll

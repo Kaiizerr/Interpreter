@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "interpreterlib", "interpreterlib.fsproj", "{42ED2EA2-3C5F-4E08-B7CD-44ED45674635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ED2EA2-3C5F-4E08-B7CD-44ED45674635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ED2EA2-3C5F-4E08-B7CD-44ED45674635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ED2EA2-3C5F-4E08-B7CD-44ED45674635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ED2EA2-3C5F-4E08-B7CD-44ED45674635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910C7036-3DE1-476B-AEEE-56182E9EFC25}
+	EndGlobalSection
+EndGlobal
